@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "company": "NeuralMetrics AI",
+    "industry": "AI & Machine Learning",
+    "stage": "Series A ($12M)",
+    "location": "San Francisco, CA (Remote)",
+    "decisionMaker": "Alex Vance",
+    "title": "Head of Growth & Ops",
+    "verifiedEmail": "alex.v***@neuralmetrics.io",
+    "budgetIntent": "Actively hiring external agencies & contractors",
+    "techStack": "Next.js, Python, AWS, Stripe"
+  },
+  {
+    "id": 2,
+    "company": "FinFlow Automation",
+    "industry": "FinTech / SaaS",
+    "stage": "Seed ($4.2M)",
+    "location": "New York, NY",
+    "decisionMaker": "Sophia Reynolds",
+    "title": "Chief Technology Officer",
+    "verifiedEmail": "sophia.r***@finflowhq.com",
+    "budgetIntent": "Needs frontend UI/UX revamp & API integrations",
+    "techStack": "React, Tailwind, Node.js, PostgreSQL"
+  },
+  {
+    "id": 3,
+    "company": "PulseHealth Analytics",
+    "industry": "HealthTech",
+    "stage": "Series B ($28M)",
+    "location": "Boston, MA",
+    "decisionMaker": "Dr. Marcus Chen",
+    "title": "VP of Product Strategy",
+    "verifiedEmail": "marcus.c***@pulsehealth.ai",
+    "budgetIntent": "Outsourcing data visualization & HIPAA compliant portals",
+    "techStack": "TypeScript, Python, FHIR, Google Cloud"
+  },
+  {
+    "id": 4,
+    "company": "OmniCart Commerce",
+    "industry": "E-Commerce Tech",
+    "stage": "Bootstrapped ($3M ARR)",
+    "location": "Austin, TX (Remote)",
+    "decisionMaker": "Elena Rostova",
+    "title": "Founder & Managing Director",
+    "verifiedEmail": "elena***@omnicart.co",
+    "budgetIntent": "Actively seeking conversion rate optimization experts",
+    "techStack": "Shopify Plus, Tailwind, Supabase"
+  },
+  {
+    "id": 5,
+    "company": "ShieldGuard Cyber",
+    "industry": "CyberSecurity",
+    "stage": "Series A ($15M)",
+    "location": "Washington, D.C.",
+    "decisionMaker": "David Kim",
+    "title": "Director of Demand Gen",
+    "verifiedEmail": "david.k***@shieldguard.security",
+    "budgetIntent": "Hiring B2B outbound lead generation specialists",
+    "techStack": "HubSpot, Salesforce, AWS"
+  },
+  {
+    "id": 6,
+    "company": "AetherCloud Solutions",
+    "industry": "DevTools / Cloud",
+    "stage": "Seed ($3.5M)",
+    "location": "Seattle, WA",
+    "decisionMaker": "Rachel Green",
+    "title": "Head of Community & Developer Relations",
+    "verifiedEmail": "rachel.g***@aethercloud.dev",
+    "budgetIntent": "Looking for technical content writers & open-source advocates",
+    "techStack": "Go, Docker, Kubernetes, Next.js"
+  },
+  {
+    "id": 7,
+    "company": "HyperScale Logistics",
+    "industry": "Supply Chain / Logistics",
+    "stage": "Series A ($9.5M)",
+    "location": "Chicago, IL",
+    "decisionMaker": "Jason Miller",
+    "title": "Operations Systems Architect",
+    "verifiedEmail": "jason.m***@hyperscalelogistics.com",
+    "budgetIntent": "Automating manual dispatch spreadsheets with custom portals",
+    "techStack": "Vue.js, Python, PostgreSQL"
+  },
+  {
+    "id": 8,
+    "company": "Synthetix Voice AI",
+    "industry": "AI & Machine Learning",
+    "stage": "Seed ($5M)",
+    "location": "Palo Alto, CA",
+    "decisionMaker": "Tariq Al-Mansoor",
+    "title": "Co-Founder & VP Engineering",
+    "verifiedEmail": "tariq***@synthetixvoice.ai",
+    "budgetIntent": "Outsourcing real-time WebRTC and speech model UI widgets",
+    "techStack": "WebSockets, FastAPI, PyTorch"
+  },
+  {
+    "id": 9,
+    "company": "VoltEnergy Grid",
+    "industry": "CleanTech / Climate",
+    "stage": "Series B ($35M)",
+    "location": "Denver, CO",
+    "decisionMaker": "Laura Schmidt",
+    "title": "Chief Operating Officer",
+    "verifiedEmail": "laura.s***@voltenergy.org",
+    "budgetIntent": "Seeking automated IoT reporting dashboards and SCADA links",
+    "techStack": "Rust, React, TimescaleDB"
+  },
+  {
+    "id": 10,
+    "company": "KudoRewards App",
+    "industry": "FinTech / SaaS",
+    "stage": "Seed ($2.1M)",
+    "location": "Miami, FL",
+    "decisionMaker": "Carlos Mendez",
+    "title": "Growth Lead",
+    "verifiedEmail": "carlos***@kudorewards.io",
+    "budgetIntent": "Seeking paid social advertising & user onboarding audits",
+    "techStack": "Flutter, Node.js, Firebase"
+  }
+]

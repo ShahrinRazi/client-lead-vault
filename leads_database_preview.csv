@@ -1,0 +1,11 @@
+Company,Industry,Stage,Location,DecisionMaker,Title,VerifiedEmail,BudgetIntent,TechStack
+NeuralMetrics AI,AI & Machine Learning,Series A ($12M),San Francisco CA (Remote),Alex Vance,Head of Growth & Ops,alex.vance@neuralmetrics.io,Actively hiring external agencies & contractors,Next.js Python AWS Stripe
+FinFlow Automation,FinTech / SaaS,Seed ($4.2M),New York NY,Sophia Reynolds,Chief Technology Officer,sophia.reynolds@finflowhq.com,Needs frontend UI/UX revamp & API integrations,React Tailwind Node.js PostgreSQL
+PulseHealth Analytics,HealthTech,Series B ($28M),Boston MA,Dr. Marcus Chen,VP of Product Strategy,marcus.chen@pulsehealth.ai,Outsourcing data visualization & HIPAA compliant portals,TypeScript Python FHIR Google Cloud
+OmniCart Commerce,E-Commerce Tech,Bootstrapped ($3M ARR),Austin TX (Remote),Elena Rostova,Founder & Managing Director,elena.rostova@omnicart.co,Actively seeking conversion rate optimization experts,Shopify Plus Tailwind Supabase
+ShieldGuard Cyber,CyberSecurity,Series A ($15M),Washington D.C.,David Kim,Director of Demand Gen,david.kim@shieldguard.security,Hiring B2B outbound lead generation specialists,HubSpot Salesforce AWS
+AetherCloud Solutions,DevTools / Cloud,Seed ($3.5M),Seattle WA,Rachel Green,Head of Developer Relations,rachel.green@aethercloud.dev,Looking for technical content writers & open-source advocates,Go Docker Kubernetes Next.js
+HyperScale Logistics,Supply Chain / Logistics,Series A ($9.5M),Chicago IL,Jason Miller,Operations Systems Architect,jason.miller@hyperscalelogistics.com,Automating manual dispatch spreadsheets with custom portals,Vue.js Python PostgreSQL
+Synthetix Voice AI,AI & Machine Learning,Seed ($5M),Palo Alto CA,Tariq Al-Mansoor,Co-Founder & VP Engineering,tariq@synthetixvoice.ai,Outsourcing real-time WebRTC and speech model UI widgets,WebSockets FastAPI PyTorch
+VoltEnergy Grid,CleanTech / Climate,Series B ($35M),Denver CO,Laura Schmidt,Chief Operating Officer,laura.schmidt@voltenergy.org,Seeking automated IoT reporting dashboards and SCADA links,Rust React TimescaleDB
+KudoRewards App,FinTech / SaaS,Seed ($2.1M),Miami FL,Carlos Mendez,Growth Lead,carlos.mendez@kudorewards.io,Seeking paid social advertising & user onboarding audits,Flutter Node.js Firebase
